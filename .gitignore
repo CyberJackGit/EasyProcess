@@ -12,6 +12,7 @@ pip-log.txt
 /lib64
 /bin
 /virtualenv
+/venv
 
 *.bak
 */build/*
